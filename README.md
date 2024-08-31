@@ -1,26 +1,31 @@
-##Project Title
-Responsive Furniture Website
+# Project Title
 
-##Getting Started
-E-commerce Furniture Website to Mange products, offers and users
+Responsive Furniture Website 
 
-##Prerequisites
-.open your browser chrome or firefox .Active your vs code to see the code
+## Getting Started
+E-Commerce Furniture Website Manage All products, offers and users  
+### Prerequisites
+.open your browser chrome or firefox 
+.Active the vs code file location 
 
-##Installing
-.visual studio code
-. browser 
+### Installing
 
-##Running the tests
-Open your vs code and right click to 'open with live server'
+.visual studio cod
+.any browser 
 
-##Deployment
+## Running the tests
+
+Open your vs code and right click to choose 'open with live server'
+
+## Deployment
+
 love demo will be sent immediately.
 
-##Built With
--Html 
--css 
--javascript
+## Built With
 
-##Authors
-Mahmoud Elhefnawy
+Html 
+css 
+javascript 
+
+## Authors
+Mahmoud Elhefnawy 
